@@ -1,1 +1,1 @@
-vagrant directory
+vagrant dirctory
